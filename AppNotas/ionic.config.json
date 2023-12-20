@@ -1,0 +1,7 @@
+{
+  "name": "AppNotas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
