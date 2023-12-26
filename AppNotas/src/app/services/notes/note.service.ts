@@ -50,7 +50,6 @@ export class NoteService {
     } catch (error) {
       throw(error);
     }
-
   }
 
   async deleteNote(id: string){
