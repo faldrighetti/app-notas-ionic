@@ -25,3 +25,14 @@
 #container a {
   text-decoration: none;
 }
+
+.hidden{
+  display: none;
+  color: red;
+}
+
+ion-label {
+  p {
+    margin-top: 5px;
+  }
+}
