@@ -49,7 +49,6 @@ export class HomePage implements OnInit, OnDestroy {
         return;
       }
       else {
-        console.log(form.value);
         if(this.model.id){
           await this.note.editNote(this.model.id, form.value);
         } else{
